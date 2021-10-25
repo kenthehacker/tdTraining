@@ -1,0 +1,2 @@
+# tdTraining
+trains algo
